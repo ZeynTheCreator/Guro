@@ -1,0 +1,9 @@
+
+{
+  "name": "GuroAi - Your Personal AI",
+  "description": "An intelligent, customizable AI chatbot with multiple modes, voice interaction, and theming.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
